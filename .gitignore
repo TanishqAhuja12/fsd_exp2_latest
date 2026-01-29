@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Env files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Lock files (optional — include if you don't want to push lockfiles)
+# package-lock.json
+# yarn.lock
+
+# Misc
+*.log
