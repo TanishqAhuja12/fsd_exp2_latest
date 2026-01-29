@@ -49,19 +49,19 @@ The repository includes a few PNG screenshots demonstrating the UI and the Vite 
 
 Desktop hero and navbar
 
-![Hero and Navbar](./image.png)
+![Hero and Navbar](./hero.png)
 
 Card layout (responsive grid)
 
-![Card layout](./image%20copy.png)
+![Card layout](./cards.png)
 
 Contact form and details panel
 
-![Contact form](./image%20copy%202.png)
+![Contact form](./contact.png)
 
 Local dev server (Vite) running
 
-![Vite dev server screenshot](./localhost_5173_.png)
+![Vite dev server screenshot](./vite.png)
 
 ## Design notes & testing checklist
 
